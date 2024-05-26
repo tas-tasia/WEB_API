@@ -15,4 +15,4 @@ This project demonstrates how to interact with a web API using Python. The speci
 1. Ensure you have Python installed (preferably 3.x).
 2. Install the required modules by running:
    pip install requests
-   3.install SQLite viewer
+3.install SQLite viewer
